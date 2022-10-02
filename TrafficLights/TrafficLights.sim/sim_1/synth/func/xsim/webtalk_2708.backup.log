@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Jul 10 21:30:10 2020
+# Process ID: 2708
+# Current directory: D:/Vivado/TrafficLights/TrafficLights.sim/sim_1/synth/func/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Vivado/TrafficLights/TrafficLights.sim/sim_1/synth/func/xsim/xsim.dir/TrafficLights_sim_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Vivado/TrafficLights/TrafficLights.sim/sim_1/synth/func/xsim/webtalk.log
+# Journal file: D:/Vivado/TrafficLights/TrafficLights.sim/sim_1/synth/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Vivado/TrafficLights/TrafficLights.sim/sim_1/synth/func/xsim/xsim.dir/TrafficLights_sim_func_synth/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Fri Jul 10 21:30:13 2020...

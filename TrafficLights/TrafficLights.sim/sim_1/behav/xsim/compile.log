@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/TrafficLights/TrafficLights.srcs/sources_1/new/FreqDivide.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FreqDivide
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/TrafficLights/TrafficLights.srcs/sources_1/new/LightOutputLogic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LightOutputLogic
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/TrafficLights/TrafficLights.srcs/sources_1/new/SequentialLogic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dff
+INFO: [VRFC 10-311] analyzing module SequentialLogic
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/TrafficLights/TrafficLights.srcs/sources_1/new/StateDecoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StateDecoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/TrafficLights/TrafficLights.srcs/sources_1/new/TimerCircuits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TimerCircuit1
+INFO: [VRFC 10-311] analyzing module TimerCircuit2
+INFO: [VRFC 10-311] analyzing module TimerCircuit3
+INFO: [VRFC 10-311] analyzing module TimerCircuits
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/TrafficLights/TrafficLights.srcs/sources_1/new/TrafficLights.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TrafficLights
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/TrafficLights/TrafficLights.srcs/sources_1/new/TriggerLogic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TriggerLogic
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/TrafficLights/TrafficLights.srcs/sim_1/new/TrafficLights_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TrafficLights_sim

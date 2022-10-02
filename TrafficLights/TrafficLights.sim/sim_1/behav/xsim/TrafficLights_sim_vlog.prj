@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../TrafficLights.srcs/sources_1/new/FreqDivide.v" \
+"../../../../TrafficLights.srcs/sources_1/new/LightOutputLogic.v" \
+"../../../../TrafficLights.srcs/sources_1/new/SequentialLogic.v" \
+"../../../../TrafficLights.srcs/sources_1/new/StateDecoder.v" \
+"../../../../TrafficLights.srcs/sources_1/new/TimerCircuits.v" \
+"../../../../TrafficLights.srcs/sources_1/new/TrafficLights.v" \
+"../../../../TrafficLights.srcs/sources_1/new/TriggerLogic.v" \
+"../../../../TrafficLights.srcs/sim_1/new/TrafficLights_sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
